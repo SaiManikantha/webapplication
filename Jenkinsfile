@@ -3,7 +3,7 @@ node('paytm-node'){
 
   //http://JenkinsServerIPAddress:8080/pipeline-syntax/globals#currentBuild
   //Getting the  env  global varibale values
-
+bdhakshdfkhfkjhfjkhkhjajfhjdkas
   echo "GitHub BranhName ${env.BRANCH_NAME}"
   echo "Jenkins Job Number ${env.BUILD_NUMBER}"
   echo "Jenkins Node Name ${env.NODE_NAME}"
